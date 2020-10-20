@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
+This project will be used to implement a UI library following the stylistic guidelines outlined here: [https://dribbble.com/shots/14423689-Kenga-Dashboard](https://dribbble.com/shots/14423689-Kenga-Dashboard)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
